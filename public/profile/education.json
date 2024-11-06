@@ -1,0 +1,18 @@
+{
+    "education":[
+        {
+            "title": "2023 - present",
+            "cardTitle": "Systems Analysis and Development",
+            "cardSubtitle":"Uninter",
+            "icon" : {
+                
+            }
+        },
+        {
+            "title": "2016 - 2020",
+            "cardTitle": "High School with a Technical Degree in Informatics",
+            "cardSubtitle":"CEPB - Pato Branco",
+            "cardDetailedText": "Marks - 95%"
+        }
+    ]
+}

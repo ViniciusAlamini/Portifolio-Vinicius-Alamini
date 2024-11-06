@@ -1,0 +1,66 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/crudProduto.png",
+            "title": "Product CRUD",
+            "bodyText": "- Product CRUD built with API .NET and Angular, creating a generic repository, and implementing create, read, update, delete, filter, and display functionalities.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ViniciusAlamini/CrudProduto"
+                }
+            ],
+            "tags" : [
+                "C#",
+                ".NET",
+                "Angular"
+            ]
+        },
+        {
+            "image" : "images/projects/ApiReceita.png",
+            "title": "Api Receitas",
+            "bodyText": "- API that communicates with another service API.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ViniciusAlamini/ApiReceitas"
+                }
+            ],
+            "tags" : [
+                "C#",
+                ".NET"
+            ]
+        },
+        {
+            "image" : "images/projects/ApiDash.png",
+            "title": "Api Dashboard",
+            "bodyText": "- Ticket search, grouping by client/module, data validation, and Swagger API documentation integration.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "Ticket search, grouping by client/module, data validation, and Swagger API documentation integration."
+                }
+            ],
+            "tags" : [
+                "C#",
+                ".NET"
+            ]
+        },
+        {
+            "title": "Randomize Itens d&d",
+            "bodyText": "- Randomize Itens d&d.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ViniciusAlamini/SiteRPG"
+                }
+            ],
+            "tags" : [
+                "C#",
+                ".NET",
+                "Bootstrap"
+            ]
+        
+        }
+    ]
+}

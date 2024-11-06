@@ -1,0 +1,43 @@
+{
+    "experiences": [
+    {
+        "title": "Fullstack Developer",
+        "subtitle": "Criciúma TransporteCriciúma Transporte",
+        "workType": "Freelance",
+        "workDescription": [
+            "Developed and maintained back-end systems using C# and .NET. Database Postgres"
+        ],
+        "dateText": "July 2024 – Present"
+    },
+    {
+        "title": "Manual Test Analyst",
+        "subtitle": "IDS Software e Assessoria",
+        "workType": "Full-time",
+        "workDescription": [
+            "Performed manual testing, created test scenarios and plans, conducted API testing, and automated tests using Cypress.",
+            "Worked on API test automation."
+        ],
+        "dateText": "March 2023 – January 2024 (11 months)"
+    },
+    {
+        "title": "Test Analyst",
+        "subtitle": "VIASOFT",
+        "workType": "Full-time",
+        "workDescription": [
+            "Provided technical support and performed manual testing, created test scenarios and plans, conducted API testing, and automated tests using TestComplete.",
+            "Managed and created databases with Oracle."
+        ],
+        "dateText": "March 2021 – March 2023 (2 years 1 month)"
+    },
+    {
+        "title": "Technical Support",
+        "subtitle": "VIASOFT",
+        "workType": "Full-time",
+        "workDescription": [
+            "Provided technical support to clients, assisting with troubleshooting and resolving technical issues."
+        ],
+        "dateText": "February 2020 – March 2021 (1 year 2 months)"
+    }
+]
+
+}

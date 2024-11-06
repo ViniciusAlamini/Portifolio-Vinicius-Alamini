@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/vinicius-alamini-59a50b227/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/ViniciusAlamini"
+        },
+        {
+            "network" : "email",
+            "href": "viniciusalamini123@gmail.com"
+        }
+    ]
+}
